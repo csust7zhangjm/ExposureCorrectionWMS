@@ -1,2 +1,3 @@
-# ExposureCorrectionWMS
-Partition-based Image Exposure Correction
+# Partition-based Image Exposure Correction
+
+The paper has been submitted. Once accepted, the relevant code and data of the paper will be released soon!
