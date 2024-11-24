@@ -1,7 +1,5 @@
-# Partition-based Image Exposure Correction
+# Illumination-guided dual-branch fusion network for partition-based image exposure correction
 Jianming Zhang, Jia Jiang, Mingshuang Wu, Zhijian Feng, Xiangnan Shi
-
-[paper](paper%20link)
 
 ## Setup
 Install required packages 
