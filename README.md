@@ -1,5 +1,5 @@
 # Illumination-guided dual-branch fusion network for partition-based image exposure correction
-Jianming Zhang, Jia Jiang, Mingshuang Wu, Zhijian Feng, Xiangnan Shi
+Jianming Zhang, Jia Jiang, Mingshuang Wu, Zhijian Feng, Xiangnan Shi. Illumination-guided dual-branch fusion network for partition-based image exposure correction. Journal of Visual Communication and Image Representation, 2025, vol. 106, 104342. DOI: 10.1016/j.jvcir.2024.104342. 
 
 ## Setup
 Install required packages 
